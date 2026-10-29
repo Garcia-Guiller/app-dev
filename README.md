@@ -3,7 +3,7 @@
 ### My Favorite Series/Movie
 
 ### Movies
-1. **John wick Tetralogy**  Best Action movies of all time
+1. **John wick Tetralogy** - Best Action movies of all time
 2. **Avengers Tetralogy**  Best collaboration superhero movies of all time
 3. **Spider Man: Brand New Day**  Best solo superhero movie of all time
 4. **Spider-Man: 2**  Most Grounded superhero movie of all time
