@@ -2,7 +2,7 @@
 ## My first repository
 ### My Favorite Series/Movie
 
-###Movies
+### Movies
 1. **John wick Tetralogy**  Best Action movies of all time
 2. **Avengers Tetralogy**  Best collaboration superhero movies of all time
 3. **Spider Man: Brand New Day**  Best solo superhero movie of all time
@@ -10,7 +10,7 @@
 5. **Iron Man 1**  Second Best Solo superhero movie of all time
 6. **Rurouni Kenshin Live Action Tetralogy**  Second Best Action Movies of all time
 
-###Series
+### Series
 1. **Frieren: Beyond Journey's End** One of Best adventure theme anime
 2. **Bleach**  Favorite between The Big Three anime
 3. **Jojo's Bizarre Adventure**  Most entertaining weird adventure anime
